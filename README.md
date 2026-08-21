@@ -76,10 +76,11 @@ plt.show()
 ```
 
 ## Output
-<img width="278" height="197" alt="image" src="https://github.com/user-attachments/assets/3dc89bd5-ade4-4456-a08b-f5a92176d855" />.
+<img width="172" height="208" alt="download" src="https://github.com/user-attachments/assets/ca6c3c2e-09a0-4548-9c57-0fea217e1230" />.
 
 
-<img width="560" height="448" alt="image" src="https://github.com/user-attachments/assets/6f6df84e-d231-476e-a812-61337572b29d" />
+
+<img width="497" height="470" alt="download" src="https://github.com/user-attachments/assets/a77a9e31-d9b9-4ffd-a559-e8147f1e7f8f" />
 
 
 ## Result
